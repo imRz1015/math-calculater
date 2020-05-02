@@ -29,4 +29,4 @@
     import { numSum,numMulti,numDiv } from 'math-calculater'
     let add = numSum(1,2) // 3
     let multi =  numMulti(2,2) // 4
-    let numDiv = numDiv(1,2) // 0.5  , 默认最多保留10位小数，入需更改，可通过传入第三个参数修改
+    let div = numDiv(1,2) // 0.5  , 默认最多保留10位小数，如需更改，可通过传入第三个参数修改
