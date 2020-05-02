@@ -1,5 +1,5 @@
 {
-  "name": "math-calculate",
+  "name": "math-calculater",
   "version": "1.0.0",
   "description": "一个可以用表达式进行计算的库",
   "main": "index.js",
@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imRz1015/math-calculate.git"
+    "url": "git+https://github.com/imRz1015/math-calculater.git"
   },
   "keywords": [
-    "calculate",
+    "calculater",
     "formular"
   ],
   "author": "TANGIMING",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/imRz1015/math-calculate/issues"
+    "url": "https://github.com/imRz1015/math-calculater/issues"
   },
-  "homepage": "https://github.com/imRz1015/math-calculate#readme"
+  "homepage": "https://github.com/imRz1015/math-calculater#readme"
 }
