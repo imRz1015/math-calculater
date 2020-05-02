@@ -53,7 +53,7 @@ export function numMulti(num1, num2) {
  * @param precision 计算精度
  * @returns {number} 计算结果
  */
-export function numDiv(num1, num2, precision) {
+export function numDiv(num1, num2, precision = 10) {
   let baseNum1 = 0,
     baseNum2 = 0;
   let baseNum3, baseNum4;
